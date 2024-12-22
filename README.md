@@ -10,7 +10,7 @@ followed by:
 
 The project report was the original submission. Since then,the code has been restructured and changed to improve its clarity and organization.
 
-Each notebook corresponds to a section in the original problem description. The purpose of each notebook is closely tied to the report. However, in the notebooks, the tasks are performed on the English language for clarity. 
+Each notebook corresponds to a section in the original problem description. However, in the code, the tasks are performed on the English language for clarity. 
 
 * section 1 provides basic statistics on the TyDa data set in the languages Arabic, Bengali and Indonesian
 * section 2 implements 3 different language models
