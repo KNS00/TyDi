@@ -8,7 +8,7 @@ followed by:
 
   docker-compose up
 
-The project report was the original submission. Since then,the code has been restructured and changed to improve its clarity and organization.
+The project report was the original submission. Since then, the code has been restructured and changed to improve its clarity and organization.
 
 Each notebook corresponds to a section in the original problem description. However, in the code, the tasks are performed on the English language for clarity. 
 
