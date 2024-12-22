@@ -2,11 +2,11 @@ This project was created as part of the NLP course at DIKU 2023/2024. We perform
 
 To reproduce the results, clone the project and run:
 
-  ´docker build -t tydi_qa .´
+  docker build -t tydi_qa .
 
 followed by:
 
-  ´docker-compose up´
+  docker-compose up
 
 The project report was the original submission. Since then,the code has been restructured and changed to improve its clarity and organization.
 
