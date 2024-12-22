@@ -10,7 +10,7 @@ followed by:
 
 Each notebook corresponds to a section in the original problem description. However, in the code, the tasks are performed on the English language for clarity. 
 
-* section 1 provides basic statistics on the Tydi QA data set in the languages Arabic, Bengali and Indonesian
+* section 1 provides basic statistics on the Tydi QA data set
 * section 2 implements 3 different language models
 * section 3 implements three different binary classifiers to predict whether a question is answerable or not
 * section 4 implements two transformer based QAs and IOB-tagging (yet to be added to the public repo)
