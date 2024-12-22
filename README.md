@@ -1,4 +1,4 @@
-In this project, various NLP tasks are conducted using the Answerable TyDi QA dataset [1]. Originally developed as part of a group project for an NLP course at DIKU in 2023, it has since then been expanded and refined.
+In this project, various NLP tasks are conducted on the Answerable TyDi QA dataset [1]. Originally developed as part of a group project for an NLP course at DIKU in 2023, it has since then been expanded and refined.
 
 To reproduce the results, clone the project and run:
 
