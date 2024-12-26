@@ -1,12 +1,26 @@
+# Performing language models on the TyDi QA data set
+
 In this project, various NLP tasks are conducted on the Answerable TyDi QA dataset [1]. Originally developed as part of a group project for an NLP course at DIKU in 2023, it has since then been expanded and refined.
 
-To reproduce the results, clone the project and run:
+## Getting Started
 
-  docker build -t tydi_qa .
+The project has been containerized for reproducibility. 
 
-followed by:
+### Prerequisites 
 
-  docker-compose up
+Download [Docker Desktop]([www.google.com](https://www.docker.com/products/docker-desktop/) on your machine.
+
+### Installing
+
+To run the notebooks on a development environment, build the container with 
+```
+docker build -t tydi_qa .
+```
+and run it by the following command
+```
+docker-compose up
+```
+### Reproducing the resuls
 
 Each notebook corresponds to a section in the original problem description.
 
