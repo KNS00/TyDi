@@ -8,7 +8,7 @@ The project has been containerized for reproducibility.
 
 ### Prerequisites 
 
-Download [Docker Desktop]([www.google.com](https://www.docker.com/products/docker-desktop/) on your machine.
+Download [Docker Desktop](https://www.docker.com/products/docker-desktop/) on your machine.
 
 ### Installing
 
